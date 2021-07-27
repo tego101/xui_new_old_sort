@@ -1,5 +1,3 @@
-# xui_new_old_sort
-
 #   http://github.com/tego101
 => ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   bitcoincash: —> qqz0ry3r7dnmm8rwllvx46ds7zf5srw3pqqgnx7x75
